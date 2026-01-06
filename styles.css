@@ -325,11 +325,11 @@ html,body{
 }
 
 .video-thumb{
-  width:clamp(128px, 10vw, 84px);
-  height:clamp(64px, 10vw, 84px);
+  width:clamp(84px, 10vw, 128px);
+  height:clamp(84px, 10vw, 128px);
   border-radius:clamp(10px, 1.5vw, 14px);
   object-fit:cover;
-  background:#0A0C0F;
+  background:#434446;
   border:1.5px solid rgba(0,230,255,0.26);
   flex-shrink:0;
 }
